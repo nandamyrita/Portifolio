@@ -1,0 +1,77 @@
+.contatos {
+width: 100%;
+display: flex;
+flex-direction: column;
+background: rgb(239, 97, 125);
+background: linear-gradient(90deg, rgba(239, 97, 125, 0.877) 0%, rgba(223,33,102,1) 100%);
+justify-content: center;
+padding: 50px 0;
+}
+
+.contatos h2{
+  color: #fff;
+  font-size: 48px;
+}
+
+.text-form label {
+  color: #fff;
+}
+
+.first-name, .last-name{
+  display:flex;
+  flex-direction: column;
+  gap: 4px;
+  width: 100%;
+}
+
+input, textarea{
+  border-radius: 6px;
+  padding: 8px 16px;
+}
+
+.all{
+  display: flex;
+  flex-direction: column;
+  width: 50%;
+  max-width: 100%;
+  gap: 20px;
+  margin-left: 60px ;
+
+}
+
+.text-form{
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  gap:24px;
+}
+
+.name{
+  display: flex;
+  flex-direction: row;
+  gap: 40px;
+  width: 100%;
+}
+
+
+.email,.mensagem{
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+}
+
+input{
+  appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  border: none;
+  padding: 8px 16px;
+}
+
+.btn-forms{
+  padding: 20px 0;
+  background-color: #000;
+  color:#fff;
+  font-weight: 600;
+  font-size: 14px;
+}
