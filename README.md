@@ -9,7 +9,7 @@ Me chamo Maria Fernanda e sou um entusiasta da tecnologia. Estou em constante ap
 ## Contato
 
 - Email: mariafernanda.mfsm8@gmail.com
-- LinkedIn: [www.linkedin.com/in/maria-fernanda-439137202](link_para_o_seu_perfil)
+- LinkedIn: [https://www.linkedin.com/in/maria-fernanda-439137202](link_para_o_seu_perfil)
 
 
 Não hesite em entrar em contato comigo para mais informações ou oportunidades de colaboração!
